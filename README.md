@@ -6,4 +6,4 @@ Autentikar FaceTec Recognition SDK.
 Works with `FaceTecSDK` framework.
 
 # Updated
-* Upgrade FaceTecSDK to 9.7.72.
+* Upgrade FaceTecSDK to 9.7.77.
