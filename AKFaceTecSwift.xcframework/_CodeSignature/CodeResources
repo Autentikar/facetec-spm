@@ -6,15 +6,15 @@
 	<dict>
 		<key>ios-arm64/AKFaceTecSwift.framework/AKFaceTecSwift</key>
 		<data>
-		YWc7De9LekT3QVgmVXTeNef78OU=
+		VoNgcGPGNIQpaE5s8b18VRn7oOs=
 		</data>
 		<key>ios-arm64/AKFaceTecSwift.framework/Assets.car</key>
 		<data>
-		E51dipKzka7RJwR6G3QkEti1c/o=
+		G/9+VxM3AEGz7LoiFV3SWwgq6jI=
 		</data>
 		<key>ios-arm64/AKFaceTecSwift.framework/Headers/AKFaceTecSwift-Swift.h</key>
 		<data>
-		GglNLj6QxujmWN+VFHlIAe20VZ8=
+		YTGBgxeIaIK799RKnQkonUe1BFI=
 		</data>
 		<key>ios-arm64/AKFaceTecSwift.framework/Headers/AKFaceTecSwift.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>ios-arm64/AKFaceTecSwift.framework/Info.plist</key>
 		<data>
-		ejDDnDX6v5NRY/v7rBPVhKBnPz8=
+		J56mmN/4KsdRhUUJchJHW2ouVmU=
 		</data>
 		<key>ios-arm64/AKFaceTecSwift.framework/Modules/AKFaceTecSwift.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -30,15 +30,15 @@
 		</data>
 		<key>ios-arm64/AKFaceTecSwift.framework/Modules/AKFaceTecSwift.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		DE0WmjlUvEr2NnPZmI/W8ik5NEI=
+		SPkl0hruhjpWrZRyKDfDtXqqDyY=
 		</data>
 		<key>ios-arm64/AKFaceTecSwift.framework/Modules/AKFaceTecSwift.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		i5sfMXU4VwQ1y66vO9OVeoOqEZE=
+		Nuq7+Ei7uyjrwAqQpK8TIoea92E=
 		</data>
 		<key>ios-arm64/AKFaceTecSwift.framework/Modules/AKFaceTecSwift.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		DE0WmjlUvEr2NnPZmI/W8ik5NEI=
+		SPkl0hruhjpWrZRyKDfDtXqqDyY=
 		</data>
 		<key>ios-arm64/AKFaceTecSwift.framework/Modules/module.modulemap</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>ios-arm64/AKFaceTecSwift.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Fwu9w762ua8ClD1/1pl3N4o1pro=
+		av0AdM6bNub3xp4wj3AG9IMXBBI=
 		</data>
 		<key>ios-arm64/AKFaceTecSwift.framework/en.lproj/Localizable.strings</key>
 		<dict>
@@ -71,43 +71,27 @@
 	<dict>
 		<key>ios-arm64/AKFaceTecSwift.framework/AKFaceTecSwift</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YWc7De9LekT3QVgmVXTeNef78OU=
-			</data>
 			<key>hash2</key>
 			<data>
-			iQr7wKd0cI39crjJD2flJ/cMvhh06XZMmfQhaCGEnBo=
+			vbk57OmEohLXp3N2WHMtuaInwkIGIM4Rjl5UtpN/V4w=
 			</data>
 		</dict>
 		<key>ios-arm64/AKFaceTecSwift.framework/Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			E51dipKzka7RJwR6G3QkEti1c/o=
-			</data>
 			<key>hash2</key>
 			<data>
-			+iudvZbIKZ8vCkzpolHN+FvE3hNOVOZTvj6ss7eKdso=
+			N6O3mrZIkVQ1kulC8URffI2sSNsVoOkjmpVn3arO0ak=
 			</data>
 		</dict>
 		<key>ios-arm64/AKFaceTecSwift.framework/Headers/AKFaceTecSwift-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GglNLj6QxujmWN+VFHlIAe20VZ8=
-			</data>
 			<key>hash2</key>
 			<data>
-			Z4E4SyVMMNrxSHdEZdN7TT1Y/rYxSJ3+8/EeDQ+khG4=
+			J+SgUvOduAsWy4Sce68lW7S/57n/hD1arv5igMnsHAY=
 			</data>
 		</dict>
 		<key>ios-arm64/AKFaceTecSwift.framework/Headers/AKFaceTecSwift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			x3b3qcURbL/B/atSx7oKQoeAeMw=
-			</data>
 			<key>hash2</key>
 			<data>
 			1zYUmlefNHDVDlmnMHFsYnEYpKYQVUX+Tkq1v8Yh038=
@@ -115,21 +99,13 @@
 		</dict>
 		<key>ios-arm64/AKFaceTecSwift.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ejDDnDX6v5NRY/v7rBPVhKBnPz8=
-			</data>
 			<key>hash2</key>
 			<data>
-			9geOVjhR51pUlTUAC/xM2ytiZq0dQBbaVMG/XNtU+QI=
+			OfRi0POPpKSAOGvRQPHj6pa9CJB5sS/S2FGxtdTiwiM=
 			</data>
 		</dict>
 		<key>ios-arm64/AKFaceTecSwift.framework/Modules/AKFaceTecSwift.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iZcRNOgv4xviRzSTUAxbEV9vHjc=
-			</data>
 			<key>hash2</key>
 			<data>
 			LnMSIxowVSr2VnybVtdamRW7Ly+gnihYaLoa+88cuyY=
@@ -137,43 +113,27 @@
 		</dict>
 		<key>ios-arm64/AKFaceTecSwift.framework/Modules/AKFaceTecSwift.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DE0WmjlUvEr2NnPZmI/W8ik5NEI=
-			</data>
 			<key>hash2</key>
 			<data>
-			PPNshoerIofT6dLCCz+VtyoVc35JfCshkbnf+zpbPMo=
+			idRKCPO61jCHB+ZJ1GbzSP4A6LzuWf49vL6HSoS+L44=
 			</data>
 		</dict>
 		<key>ios-arm64/AKFaceTecSwift.framework/Modules/AKFaceTecSwift.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			i5sfMXU4VwQ1y66vO9OVeoOqEZE=
-			</data>
 			<key>hash2</key>
 			<data>
-			abXK/hJ04khmZxiA/HPUJRJUN2K3lxAnZylrfhOfsoc=
+			LkpLCKWu0TzUQnYkbBsnVXiHojo+jYqaYvMVAYHgTx4=
 			</data>
 		</dict>
 		<key>ios-arm64/AKFaceTecSwift.framework/Modules/AKFaceTecSwift.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DE0WmjlUvEr2NnPZmI/W8ik5NEI=
-			</data>
 			<key>hash2</key>
 			<data>
-			PPNshoerIofT6dLCCz+VtyoVc35JfCshkbnf+zpbPMo=
+			idRKCPO61jCHB+ZJ1GbzSP4A6LzuWf49vL6HSoS+L44=
 			</data>
 		</dict>
 		<key>ios-arm64/AKFaceTecSwift.framework/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xsxnykiS0t5vmNAdi/OPrJELZYk=
-			</data>
 			<key>hash2</key>
 			<data>
 			1xkJ/GfFhMLXNKKTct85MGr52wiJc7zkGWAhrcvlGjo=
@@ -181,21 +141,13 @@
 		</dict>
 		<key>ios-arm64/AKFaceTecSwift.framework/_CodeSignature/CodeResources</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Fwu9w762ua8ClD1/1pl3N4o1pro=
-			</data>
 			<key>hash2</key>
 			<data>
-			R8UgM+saLiUfIh0dzEsmMwFvJnl9ROFeofkWefq5sJM=
+			YGA1y2oqG+fowpTtypYrNAyQirOhtk29w3kwUFqIREs=
 			</data>
 		</dict>
 		<key>ios-arm64/AKFaceTecSwift.framework/en.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			M0TcBRgnkvXGiR48KeHqWrd8xhM=
-			</data>
 			<key>hash2</key>
 			<data>
 			oaGFeLKz7KirCnj2w+I4FVXw1hsadTqEzuTYx+n/HqQ=
@@ -205,10 +157,6 @@
 		</dict>
 		<key>ios-arm64/AKFaceTecSwift.framework/es.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ztwSfUkrv2lYB5KOGAdsD+Yjh0I=
-			</data>
 			<key>hash2</key>
 			<data>
 			KQDYkYIZxqdNEp5I+czFe3vfixUMr1JSdXtRnmVkNy0=

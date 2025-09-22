@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		E51dipKzka7RJwR6G3QkEti1c/o=
+		G/9+VxM3AEGz7LoiFV3SWwgq6jI=
 		</data>
 		<key>Headers/AKFaceTecSwift-Swift.h</key>
 		<data>
-		GglNLj6QxujmWN+VFHlIAe20VZ8=
+		YTGBgxeIaIK799RKnQkonUe1BFI=
 		</data>
 		<key>Headers/AKFaceTecSwift.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ejDDnDX6v5NRY/v7rBPVhKBnPz8=
+		J56mmN/4KsdRhUUJchJHW2ouVmU=
 		</data>
 		<key>Modules/AKFaceTecSwift.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -26,19 +26,19 @@
 		</data>
 		<key>Modules/AKFaceTecSwift.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		DE0WmjlUvEr2NnPZmI/W8ik5NEI=
+		SPkl0hruhjpWrZRyKDfDtXqqDyY=
 		</data>
 		<key>Modules/AKFaceTecSwift.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		i5sfMXU4VwQ1y66vO9OVeoOqEZE=
+		Nuq7+Ei7uyjrwAqQpK8TIoea92E=
 		</data>
 		<key>Modules/AKFaceTecSwift.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		DE0WmjlUvEr2NnPZmI/W8ik5NEI=
+		SPkl0hruhjpWrZRyKDfDtXqqDyY=
 		</data>
 		<key>Modules/AKFaceTecSwift.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		e+qmlDWGg3z35/XIlnwkc86/zQc=
+		FksCMfIo6gV7luMqWw1JsFkWRdI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -69,14 +69,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+iudvZbIKZ8vCkzpolHN+FvE3hNOVOZTvj6ss7eKdso=
+			N6O3mrZIkVQ1kulC8URffI2sSNsVoOkjmpVn3arO0ak=
 			</data>
 		</dict>
 		<key>Headers/AKFaceTecSwift-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z4E4SyVMMNrxSHdEZdN7TT1Y/rYxSJ3+8/EeDQ+khG4=
+			J+SgUvOduAsWy4Sce68lW7S/57n/hD1arv5igMnsHAY=
 			</data>
 		</dict>
 		<key>Headers/AKFaceTecSwift.h</key>
@@ -97,28 +97,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PPNshoerIofT6dLCCz+VtyoVc35JfCshkbnf+zpbPMo=
+			idRKCPO61jCHB+ZJ1GbzSP4A6LzuWf49vL6HSoS+L44=
 			</data>
 		</dict>
 		<key>Modules/AKFaceTecSwift.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			abXK/hJ04khmZxiA/HPUJRJUN2K3lxAnZylrfhOfsoc=
+			LkpLCKWu0TzUQnYkbBsnVXiHojo+jYqaYvMVAYHgTx4=
 			</data>
 		</dict>
 		<key>Modules/AKFaceTecSwift.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PPNshoerIofT6dLCCz+VtyoVc35JfCshkbnf+zpbPMo=
+			idRKCPO61jCHB+ZJ1GbzSP4A6LzuWf49vL6HSoS+L44=
 			</data>
 		</dict>
 		<key>Modules/AKFaceTecSwift.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EU97mUt6FlZfbeXQI18l+Cn9eIwxtnrIsgG9pUBf0YA=
+			1RLQrVX96pQLgCEiRQU/QzES8WX1EXY+WsjDG3pS/7s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
