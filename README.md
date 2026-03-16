@@ -24,15 +24,20 @@ This package supports two FaceTec dependency sources:
 
 This is the **only case** where you need to open Xcode from the terminal. Opening it from Finder, Dock, or Spotlight will always use Production (the default).
 
-1. **Close Xcode** completely.
-2. Open a terminal and run:
+1. Open a terminal and run the following commands **in order**:
 
 ```bash
+# Force quit Xcode (important: 'open' won't work if Xcode is already running)
+killall Xcode
+
+# Set the environment variable and open your project
 export FACETEC_ENV=dev
-open YourApp.xcodeproj   # replace with your actual .xcodeproj name
+open YourApp.xcodeproj      # use .xcodeproj or .xcworkspace, both work
 ```
 
-3. Once Xcode opens, go to **File > Packages > Reset Package Caches** to force SPM to pick up the change.
+> ⚠️ If Xcode is already open when you run `open`, macOS will reuse the existing process and the variable **will not take effect**. Always use `killall Xcode` first.
+
+2. Once Xcode opens, go to **File > Packages > Reset Package Caches** to force SPM to pick up the change.
 
 ### Switch back to Production
 

@@ -4,11 +4,6 @@
 import PackageDescription
 import Foundation
 
-// ─────────────────────────────────────────────────────────────────
-// Selección de entorno FaceTec
-// Opción A (Xcode / CLI): exporta la variable antes de abrir Xcode:
-//   export FACETEC_ENV=dev
-// ─────────────────────────────────────────────────────────────────
 let devMode = ProcessInfo.processInfo.environment["FACETEC_ENV"] == "dev"
 
 let faceTecURL = devMode
