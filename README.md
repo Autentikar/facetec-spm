@@ -1,5 +1,5 @@
 # AKFaceTecSDK *by Autentikar*
-## version 9.7.112 :rocket:
+## version 9.7.117 :rocket:
 
 Autentikar FaceTec Recognition SDK.
 
@@ -46,4 +46,4 @@ Close Xcode and reopen it normally from Finder, Dock, or Spotlight — no termin
 ---
 
 # Updated
-* Upgrade FaceTecSDK to 9.7.112.
+* Upgrade FaceTecSDK to 9.7.117.

@@ -21,7 +21,7 @@ let package = Package(
             targets: ["AKFaceTecSwiftWrapper"]),
     ],
     dependencies: [
-        .package(url: faceTecURL, from: "9.7.112"),
+        .package(url: faceTecURL, from: "9.7.117"),
     ],
     targets: [
         .target(
